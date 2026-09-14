@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👨‍💻Introducing Myself
 
-<!--
-**LeonDosovitsky/LeonDosovitsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Leon Dosovitsky, an operations specialist with a passion for data analysis.<br>
+I have developed an expertise in data analysis, query optimization and reporting, I am excited to showcase my knowledge through my projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+- ERP, WMS
+- SQL
+- Python
+- Automation
+- Excel Power Query
+- Excel Macro
+- Power BI, Tableau
+
+### 🗂️ Projects
+
+Here is my portfolio, where I showcase my [projects](https://github.com/LeonDosovitsky/Portfolio).
+
+
+### 🌐 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/leon-dosovitsky/)
