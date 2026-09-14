@@ -1,7 +1,7 @@
 ## 👨‍💻Introducing Myself
 [French/English]<br>
 
-Hello, I'm Leon Dosovitsky, an operations specialist with a passion for data analysis.<br>
+Hello, I'm Leon Dosovitsky, an operations specialist with a passion for data analytics.<br>
 I have developed an expertise in data analysis, query optimization and reporting, I am excited to showcase my knowledge through my projects.
 
 ### 🛠️ Tools
